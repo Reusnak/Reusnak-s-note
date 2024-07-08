@@ -14,7 +14,7 @@ _first_
 __second__
 
 >
->* first
+>*first
 >* second
 
 
