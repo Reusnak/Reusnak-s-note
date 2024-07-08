@@ -13,13 +13,12 @@
 _first_
 __second__
 
-*first 
+* first
+* second
 
-*second
+1. first
+2. second
 
-*third
-
-·first
 
 ***
 
