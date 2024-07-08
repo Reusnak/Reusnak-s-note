@@ -13,7 +13,7 @@
 _first_
 __second__
 
-|first |second |third
+·first ·second ·third
 
 ***
 
